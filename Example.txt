@@ -5,4 +5,4 @@ Testing stash
 
 Changing file in branch
 
-Changing file local
+Changing file in github interface
