@@ -1,8 +1,10 @@
 Example
 Added changes from github interface
-Added local changes
+
 Testing stash
 
 Changing file in branch
 
 Changing file in github interface
+
+Conflict that resolved automaticly
