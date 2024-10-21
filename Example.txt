@@ -8,3 +8,5 @@ Changing file in branch
 Changing file in github interface
 
 Conflict that resolved automaticly
+
+Changes from github
