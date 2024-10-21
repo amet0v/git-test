@@ -2,3 +2,5 @@ Example
 Added changes from github interface
 
 Testing stash
+
+Changing file in branch
