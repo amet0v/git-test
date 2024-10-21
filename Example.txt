@@ -9,4 +9,4 @@ Changing file in github interface
 
 Conflict that resolved automaticly
 
-Conflict that need to be resolved by user
+Conflict that need to be resolved by user and save changes from github
